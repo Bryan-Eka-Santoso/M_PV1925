@@ -1,0 +1,11 @@
+C:\Users\BRIAN\Downloads\Form1\Form1\bin\Debug\Form1.exe.config
+C:\Users\BRIAN\Downloads\Form1\Form1\bin\Debug\Form1.exe
+C:\Users\BRIAN\Downloads\Form1\Form1\bin\Debug\Form1.pdb
+C:\Users\BRIAN\Downloads\Form1\Form1\obj\Debug\Minggu2.csproj.AssemblyReference.cache
+C:\Users\BRIAN\Downloads\Form1\Form1\obj\Debug\Form1.Minggu2.resources
+C:\Users\BRIAN\Downloads\Form1\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\BRIAN\Downloads\Form1\Form1\obj\Debug\Minggu2.csproj.GenerateResource.cache
+C:\Users\BRIAN\Downloads\Form1\Form1\obj\Debug\Minggu2.csproj.CoreCompileInputs.cache
+C:\Users\BRIAN\Downloads\Form1\Form1\obj\Debug\Form1.exe
+C:\Users\BRIAN\Downloads\Form1\Form1\obj\Debug\Form1.pdb
+C:\Users\BRIAN\Downloads\Form1\Form1\obj\Debug\Form1.exe.config
